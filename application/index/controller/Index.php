@@ -23,4 +23,10 @@ class Index
     public function edit(){
         echo 222;
     }
+    public function add1(){
+
+    }
+    public function add2(){
+
+    }
 }
