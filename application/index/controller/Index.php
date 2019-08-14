@@ -29,4 +29,7 @@ class Index
     public function add2(){
 
     }
+    public function add3(){
+
+    }
 }
