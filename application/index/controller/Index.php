@@ -8,6 +8,9 @@ use think\Validate;
 
 class Index
 {
+    public function add3(){
+
+    }
     public function index()
     {
         include_once ROOT_PATH."vendor/phpexcel/phpexcel/Classes/PHPExcel.php"; //添加读取excel所需的类文件
